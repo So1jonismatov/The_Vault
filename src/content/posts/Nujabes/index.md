@@ -14,7 +14,7 @@ You ever wondered why the quiet music is called Hip hop even though typical hip 
 Here’s a nice track:
 
 <audio controls>
-  <source src="/music/Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio] [hQ5x8pHoIPA].mp3" type="audio/mp3">
+  <source src="/The_Vault/music/Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio] [hQ5x8pHoIPA].mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
 <details>
@@ -86,7 +86,7 @@ Here’s a nice track:
 
 # Samurai Champloo
 
-![Samurai Champloo](/images/SamuraiChamploo.png)
+![Samurai Champloo](/The_Vault/images/SamuraiChamploo.png)
 
 
 He almost singlehandily created entire OST of anime - [Samurai Champloo](https://www.google.com/search?q=Samurai+Champloo). I personally know him by his music of Samurai Champloo.
