@@ -8,15 +8,21 @@ category: Music
 draft: false
 ---
 
+
+
 # The Father of LoFi Hip Hop
 You ever wondered why the quiet music is called Hip hop even though typical hip hop is loud and fast? It's because Nujabes, the father of lo-fi hip hop, combined *Jazz* and Hip-Hop. He owned a record music store and in his free time, he would listen to random music and get inspired. It is said that his music was a reflection of his own personal struggles and emotions, and he used his music as a way to express himself and connect with others. But I dont care about that. Sadly, he passed away at the age of 36.
 
 Here’s a nice track:
 
 <audio controls>
-  <source src="/The_Vault/music/Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio] [hQ5x8pHoIPA].mp3" type="audio/mp3">
+  <source src="/The_Vault/music/music.mp3" type="audio/mp3">
   Your browser does not support the audio element.
 </audio>
+
+
+---
+
 <details>
   <summary class="cursor-pointer text-lg font-semibold">Show Lyrics</summary>
   <pre class="whitespace-pre-wrap mt-2">
@@ -84,9 +90,13 @@ Here’s a nice track:
     </pre>
 </details>
 
+---
+
+
+
 # Samurai Champloo
 
-![Samurai Champloo](/The_Vault/images/SamuraiChamploo.png)
+![Samurai Champloo](./SamuraiChamploo.png)
 
 
 He almost singlehandily created entire OST of anime - [Samurai Champloo](https://www.google.com/search?q=Samurai+Champloo). I personally know him by his music of Samurai Champloo.
